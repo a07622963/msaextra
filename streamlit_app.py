@@ -12,7 +12,7 @@ METRICS_INFO = {
     "installTotrail": "percentage",
     "trialToPaid": "percentage",
     "installTopaid": "percentage",
-    "Sum of USD_Amount": "currency",
+    "USD_Amount": "currency",
     "installation_LTV": "currency"
 }
 
@@ -23,7 +23,7 @@ DISPLAY_METRIC_NAMES = {
     "installTotrail": "Install Trial",
     "trialToPaid": "Trial to Paid",
     "installTopaid": "Install to Paid",
-    "Sum of USD_Amount": "Sum of USD Amount",
+    "USD_Amount": "Sum of USD Amount",
     "installation_LTV": "Installation LTV"
 }
 
